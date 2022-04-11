@@ -26,4 +26,4 @@
 ##### _Overview:_ <br />
   For a class project, my group decided on the task to predict whether a breast cancer tumor was cancerous or benign based on many characteristics of a tumor such as radius, texture, and smoothness. This is a link to the project slides that goal, methods, and results: [Breast Cancer Slides](https://docs.google.com/presentation/d/1no9PbZZ4Ck9jWfjIcfAOuGsYN3_ZSh_imzwxN0PGua4/edit?usp=sharing) <br /> This was also a group project, and in the code below I was responsible for the machine learning and model training portion.
 ##### _The Code:_ <br />
-* **'Breast Cancer Prediction'** is the group code for the project. While I soley did the model training (logistic regression, KNN, decision tree, random forest, neural network, SVM, AdaBoost), I also helped in the portion above conducting data exploration and visualization.
+* **'Breast Cancer Prediction.ipynb'** is the group code for the project. While I soley did the model training (logistic regression, KNN, decision tree, random forest, neural network, SVM, AdaBoost), I also helped in the portion above conducting data exploration and visualization.
