@@ -10,7 +10,7 @@
 
 ### 2. **Expected Goal Prediction** <br />
 ##### _Overview:_ <br />
-For a class project, my partner and I were determined to created an accurate and efficient expected goal prediction algorithm. In soccer, many shots happen yet few result in goals. A common metric in soccer is called expected goal (xG)
+For a class project, my partner and I were determined to created an accurate and efficient expected goal prediction algorithm. A common metric in soccer is called expected goal (xG) which is essentially the probability that a given shot will be a goal. This metric can give various insights to a team like how well the offense performed and which shots were good shots.
   This is a link to the project report that explains the project goal, methods, and results: [The Report](https://docs.google.com/document/d/1bPAh-uQeEXdd-RPVDspWQmzxO4cd1NX5eImcP377p44/edit?usp=sharing)  <br />
   Please note that this project was completed with a partner, however I was responsible for all the code.
 ##### _The Code:_ <br />
