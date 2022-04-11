@@ -7,3 +7,6 @@
 ##### _The Code:_ <br />
   * The goal was to have a specific alorithm for different item types, and possibly different requirements within that item type. **'Pipelines - CDM Clusters.ipynb'** was data exploration to gain understanding on the distribution on different item types and requirements within that item type. The item type 'CDM cluster' was the most common item ordered, so we focused first predicting orders of CDM clusters. <br />
   * **Order Predictions - Daily.ipynb'** contains data manipulation and then prediction. To simplify our efforts at first, we wanted to focus on CDM cluster orders placed in California on a workday. This code has predictions by day, however we also did by hour and by 15 minute intervals. Once the data was manipulated and ready for training, we focused on three common forecasting algorithms that gave promising results.
+
+### 2. **Expected Goal Prediction** <br />
+##### _Overview:_ <br />
