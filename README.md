@@ -1,4 +1,4 @@
 # Projects
 
-1. Rubrik Pipeline Order Prediction <br />
+1. _Rubrik Pipeline Order Prediction_ <br />
   /n-djfnsldf
