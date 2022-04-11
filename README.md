@@ -9,4 +9,6 @@
   * **Order Predictions - Daily.ipynb'** contains data manipulation and then prediction. To simplify our efforts at first, we wanted to focus on CDM cluster orders placed in California on a workday. This code has predictions by day, however we also did by hour and by 15 minute intervals. Once the data was manipulated and ready for training, we focused on three common forecasting algorithms that gave promising results.
 
 ### 2. **Expected Goal Prediction** <br />
-##### _Overview:_ <br />
+##### [The Report] (https://docs.google.com/document/d/1bPAh-uQeEXdd-RPVDspWQmzxO4cd1NX5eImcP377p44/edit?usp=sharing)
+
+<br />
