@@ -10,7 +10,7 @@
 
 ### 2. **Expected Goal Prediction** <br />
 ##### _Overview:_ <br />
-  This is a link to the project report that explains the project goal, methods, and results. [The Report](https://docs.google.com/document/d/1bPAh-uQeEXdd-RPVDspWQmzxO4cd1NX5eImcP377p44/edit?usp=sharing) Please note that this project was completed with a partner, however I was responsible for all the code.
+  This is a link to the project report that explains the project goal, methods, and results: [The Report](https://docs.google.com/document/d/1bPAh-uQeEXdd-RPVDspWQmzxO4cd1NX5eImcP377p44/edit?usp=sharing) <br /> Please note that this project was completed with a partner, however I was responsible for all the code.
 ##### _The Code:_ <br />
 * **'xG Data Cleaning.ipynb'** contains code used to parse through many json files of events and then concatenate into a single dataframe. We then filtered events to leave only shot data, and also parsed through a dictionary of shot characteristics to create additional columns describing a given shot.
 * **'xG Data Manipulation and Predictions.ipynb'** contains additional data manipulation and feature engineering, and then training and bootstrapping several classification algorithms. The best algorithm that can predict whether a given shot was a goal or not was gradient boosting with an accuracy of about 89%.
