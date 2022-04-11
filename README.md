@@ -15,7 +15,7 @@ For a class project, my partner and I were determined to created an accurate and
   Please note that this project was completed with a partner, however I was responsible for all the code.
 ##### _The Code:_ <br />
 * **'xG Data Cleaning.ipynb'** contains code used to parse through many json files of events and then concatenate into a single dataframe. We then filtered events to leave only shot data, and also parsed through a dictionary of shot characteristics to create additional columns describing a given shot.
-* **'xG Data Manipulation and Predictions.ipynb'** contains additional data manipulation and feature engineering, and then training and bootstrapping several classification algorithms. The best algorithm that can predict whether a given shot was a goal or not was gradient boosting with an accuracy of about 89%.
+* **'xG Data Manipulation and Predictions.ipynb'** contains additional data manipulation and feature engineering, and then training and bootstrapping of several classification algorithms. The best algorithm that can predict whether a given shot was a goal or not was gradient boosting with an accuracy of about 89%.
 
 ### 3. **NBA 2K League** <br />
 ##### _Overview:_ <br />
