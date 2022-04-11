@@ -18,6 +18,7 @@
 
 ### 3. **NBA 2K** <br />
 ##### _Overview:_ <br />
-  The NBA 2K came to us with a goal to increase global viewership and identify potential locations where they can create a new Esports 2K team. Provided with data by country, we used unsupervised learning to cluster countries in order to gain insights. For instance, if a country was in the same cluster as the United States (a known successful country for the 2K league), that country may share similar characteristics and provide similar interest in NBA 2K. 
- <br />This is a link to the powerpoint that explains the goal, methods, and results: [NBA 2K Powerpoint](https://docs.google.com/presentation/d/1-oNF9Gzr4s-hrpwlVNC6T_1O5SMVAqQDRb2Eddig3PM/edit?usp=sharing) <br /> Also note that this was a group project, however the code that is provided is my work and my responsibility.
+  The NBA 2K came to us with a goal to increase global viewership and identify potential locations where they can create a new Esports 2K team. Provided with data by country, we used unsupervised learning to cluster countries in order to gain insights. For instance, if a country was in the same cluster as the United States (a known successful country for the 2K league), that country may share similar characteristics and provide similar, significant interest in NBA 2K. This is a link to the powerpoint that explains the goal, methods, and results: [NBA 2K Powerpoint](https://docs.google.com/presentation/d/1-oNF9Gzr4s-hrpwlVNC6T_1O5SMVAqQDRb2Eddig3PM/edit?usp=sharing) <br /> Also note that this was a group project, however the code that is provided is my work and my responsibility. <br />
+##### _The Code:_ <br />
+* **'NBA 2K - PCA+Clustering'** is the code used to perform the clustering, both K-means clustering and isolation forest, and feature importance through PCA to understand which features have the biggest impact in determining the clusters.
   
